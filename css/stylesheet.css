@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+#navbar {
+	background-color: lightgreen;
+	height: 80px;
+}
+
+.nav-item {
+   list-style: none;
+   display: flex;
+   font-size: 20px;
+   font-weight: ;
+   padding-left: 60rem;
+   
+}
+
+li {
+	padding-top: 25px;
+	padding-left: 30px;
+	color: rgb(56,56,56);
+}
+
+li:hover {
+	cursor: pointer;
+	font-weight: 900;
+	color:black;
+}
+
+a {
+	text-decoration: none;
+}
+
+.logo {
+	margin-left:-56rem;
